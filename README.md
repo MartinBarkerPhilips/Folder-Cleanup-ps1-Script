@@ -5,10 +5,9 @@ Example run 1: Folder Date format "20230723"
 ```
 Output:
 ```
-Would have deleted: C:\Users\320178017\folderCleanupExamples\format2\Jul_03_2023
-Would have deleted: C:\Users\320178017\folderCleanupExamples\format2\Jul_06_2023
-Would have deleted: C:\Users\320178017\folderCleanupExamples\format2\Jul_12_2023
-Would have deleted: C:\Users\320178017\folderCleanupExamples\format2\Jul_15_2023
+Would have deleted: C:\Users\320178017\folderCleanupExamples\format1\20230723
+Would have deleted: C:\Users\320178017\folderCleanupExamples\format1\20230724
+Would have deleted: C:\Users\320178017\folderCleanupExamples\format1\20230725
 ```
 
 Example run 2: Folder Date format "Jul_03_2023"
